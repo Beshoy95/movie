@@ -12,7 +12,7 @@ function About() {
           <h2 className='text-2xl md:text-4xl lg:text-5xl font-bold'>
             Who we are
           </h2>
-          <p className='text-base md:text-xl lg:text-2xl py-3 font-semibold mt-20'>
+          <p className='text-sm md:text-xl lg:text-2xl py-3 font-semibold md:mt-20'>
             We are not hiding, we are standing in the face of the challenge
           </p>
           <div className='py-3 px-4 md:w-2/3 lg:w-2/3  mx-auto '>
